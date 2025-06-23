@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "73017172669",
+    "firebase_url": "https://blindaid-c26f8-default-rtdb.firebaseio.com",
+    "project_id": "blindaid-c26f8",
+    "storage_bucket": "blindaid-c26f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73017172669:android:acc291838da34f891ccdd4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hm0DY2SFWn-zj1OlvuBxONH3zWsXCsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
