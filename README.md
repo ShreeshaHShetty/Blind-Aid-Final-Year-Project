@@ -96,7 +96,6 @@ flutter run
 
 ## 📸 Screenshots
 
-> (Add screenshots or GIFs of app interface and terminal outputs)
 
 ---
 
